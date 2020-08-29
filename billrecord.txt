@@ -1,0 +1,22 @@
+
+*****************BILL************************
+Mr/Mrs   Pujan Raj Rai
+                 Book Borrowed = 2.0
+                 Fine          =0
+YOU HAVE TO PAY  Total         =2.0
+***********************************************
+            
+*****************BILL************************
+Mr/Mrs  PUJAN RAJ RAI RAI 
+                 Book Borrowed = 0
+                 Fine          =0
+YOU HAVE TO PAY  Total         =0
+***********************************************
+            
+*****************BILL************************
+Mr/Mrs  RAJAN RAI 
+                 Book Borrowed = 3.5
+                 Fine          =0
+YOU HAVE TO PAY  Total         =3.5
+***********************************************
+            
